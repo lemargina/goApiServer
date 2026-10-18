@@ -13,7 +13,7 @@ go run main.go
 
 
 
-Try it:
+Try it now:
 
 bash
 curl http://localhost:8080/health
